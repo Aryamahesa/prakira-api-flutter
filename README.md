@@ -25,9 +25,7 @@
 
 | Halaman Get Started | Halaman Pemilihan Kota | Halaman Utama | Tampilan List |
 | :---: | :---: | :---: | :---: |
-| [Screenshot_2025-07-11-13-54-51-941_com example prakira](https://github.com/user-attachments/assets/f22d3665-d74a-4081-9a8f-a35baca14584) | [Screenshot_2025-07-11-13-54-57-864_com example prakira](https://github.com/user-attachments/assets/e4e2cf76-4e30-42a6-8047-b417e01e8f0c)
- | ![Screenshot_2025-07-11-13-55-01-050_com example prakira](https://github.com/user-attachments/assets/50ce1b32-bb8a-43a7-9ba8-9f664a7b20b4)
- | ![Screenshot_2025-07-11-13-55-03-536_com example prakira](https://github.com/user-attachments/assets/a2ea5790-03c0-43b8-b08b-9799aa592cb2)
+| [Screenshot_2025-07-11-13-54-51-941_com example prakira](https://github.com/user-attachments/assets/f22d3665-d74a-4081-9a8f-a35baca14584) | [Screenshot_2025-07-11-13-54-57-864_com example prakira](https://github.com/user-attachments/assets/e4e2cf76-4e30-42a6-8047-b417e01e8f0c) | ![Screenshot_2025-07-11-13-55-01-050_com example prakira](https://github.com/user-attachments/assets/50ce1b32-bb8a-43a7-9ba8-9f664a7b20b4) | ![Screenshot_2025-07-11-13-55-03-536_com example prakira](https://github.com/user-attachments/assets/a2ea5790-03c0-43b8-b08b-9799aa592cb2)
 
 | **[Contoh Gambar]** | **[Contoh Gambar]** | **[Contoh Gambar]** |
 
