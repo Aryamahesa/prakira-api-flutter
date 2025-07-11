@@ -16,7 +16,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   final Constant myConstant = Constant();
-  final String _apiKey = '1303dcfbb0d1300f95ba7c6c11dbb586';
+  final String _apiKey = ' '; // change with your own API key
 
   // Variabel state untuk menyimpan data dari API
   bool _isLoading = true;
